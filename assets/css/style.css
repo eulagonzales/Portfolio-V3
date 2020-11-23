@@ -352,9 +352,9 @@ footer a:hover {
 }
 
 @media (max-width: 417px) {
- #home {
-   height: 100%;
-    }
+    #home {
+    height: 100vh;
+   }  
     
     .intro {
         font-size: 1.2rem;

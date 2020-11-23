@@ -123,10 +123,6 @@ section {
 }
 
 /*custom */
-#home {
-    margin: 0 !important;
-}
-
 .num {
     font-family: 'Source Code Pro', monospace;
     color: var(--gold);
@@ -356,6 +352,10 @@ footer a:hover {
 }
 
 @media (max-width: 417px) {
+ #home {
+   height: 100%;
+    }
+    
     .intro {
         font-size: 1.2rem;
         font-weight: 300;

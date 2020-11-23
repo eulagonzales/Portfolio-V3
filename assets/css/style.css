@@ -123,8 +123,8 @@ section {
 }
 
 /*custom */
-.home {
-  height: 100vh;
+#home {
+    margin: 0 !important;
 }
 
 .num {
@@ -355,7 +355,7 @@ footer a:hover {
     }
 }
 
-@media (max-width: 413px) {
+@media (max-width: 417px) {
     .intro {
         font-size: 1.2rem;
         font-weight: 300;

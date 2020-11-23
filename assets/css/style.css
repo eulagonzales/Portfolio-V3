@@ -123,6 +123,9 @@ section {
 }
 
 /*custom */
+.home {
+  height: 100vh;
+}
 
 .num {
     font-family: 'Source Code Pro', monospace;

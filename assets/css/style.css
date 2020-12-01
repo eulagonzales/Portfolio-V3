@@ -260,6 +260,17 @@ footer a:hover {
 }
 
 /*End animations*/
+@media (min-width: 1140px) {
+    #home  {
+        height: 100vh;
+     }
+     
+     #home .container  {
+         margin: 100px auto;
+      }
+}
+  
+
 
 @media (max-width: 768px) {
     .display-4 {
